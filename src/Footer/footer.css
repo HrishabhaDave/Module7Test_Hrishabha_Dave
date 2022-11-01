@@ -1,0 +1,89 @@
+.footer-header{
+    display: flex;
+    justify-content: space-between;
+    max-width: 75%;
+    margin: 10px auto;
+}
+.footer-name{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+}
+.footer-icons img{
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+.footer-sub-header{
+    margin: 20px 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.1px;
+
+    /* text-color */
+
+    color: #252B42;
+}
+.footer-suf-header{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.2px;
+
+    /* second-text-color */
+
+    color: #737373;
+}
+.footer-text{
+    background: #F9F9F9;
+}
+
+.footer-text input{
+    height: 30px;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    /* box-sizing: border-box; */
+}
+
+.footer-text button{
+    cursor: pointer;
+    height: 35px;
+    background: #23A6F0;
+    border: 1px solid #E6E6E6;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.subfooter{
+    max-width: 75%;
+    margin: 30px auto;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.2px;
+
+    /* second-text-color */
+
+    color: #302e2e;
+}
